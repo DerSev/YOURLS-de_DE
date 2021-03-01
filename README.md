@@ -8,7 +8,7 @@ YOURLS **1.8**
 
 ## Installation
 
-1. Bearbeiten Sie in Ihrer `config.php` die folgende Zeile oder fügen sie hinzu:
+1. Bearbeiten Sie in Ihrer `config.php` die folgende Zeile oder fügen Sie sie hinzu:
 ```
 define( 'YOURLS_LANG', 'de_DE' );
 ```
