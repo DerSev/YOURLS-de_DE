@@ -1147,11 +1147,11 @@ msgstr "PM"
 
 #: includes/functions-l10n.php:823
 msgid "number_format_thousands_sep"
-msgstr "Zahlenformat Tausender-Trennzeichen"
+msgstr "."
 
 #: includes/functions-l10n.php:827
 msgid "number_format_decimal_point"
-msgstr "Zahlenformat Dezimalpunkt"
+msgstr ","
 
 #: includes/functions-l10n.php:834
 msgid "ltr"
